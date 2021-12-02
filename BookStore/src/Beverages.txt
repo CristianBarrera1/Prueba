@@ -1,0 +1,3 @@
+Cocacola: 6.50
+Pepsi: 9.00
+Water: 13.00

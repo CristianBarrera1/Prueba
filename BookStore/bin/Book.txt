@@ -1,0 +1,8 @@
+TalesofTwoCities:Charles Dickens:10.00:History
+ofMiceAndMen: John Steinbeck:7.00:Fiction
+PrideandPrejudice: Jane Austen : 15.00:Romance
+Educated: Tara Westover: 14.00:NonFiction
+TheGunsofAugust: Barbara W. Tuchman: 8.00:History
+TheGreatCatMassacre:Robert Darnton: 21.00:History
+OneLaststop: Casey McQuiston: 12.00:Romance
+TheWish: Nicholas Sparks: 11.00:Fiction
